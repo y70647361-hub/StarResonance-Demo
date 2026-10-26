@@ -1,4 +1,4 @@
-# Helios（赫利俄斯）
+# StarResonance（星鸣律动）
 
 **A music-driven farming and exploration game where crops grow to melodies — and the people you meet are powered by a large language model.**
 
@@ -10,7 +10,7 @@ You land on Helios, a planet whose seeds respond to sound. Tune the right melody
 
 | | |
 |---|---|
-| **Windows** | Download `Helios-Windows.zip` from [Releases](../../releases/latest), unzip, run `Helios.exe`. Windows 10/11, 64-bit. The build is unsigned, so SmartScreen may ask: *More info → Run anyway*. |
+| **Windows** | Download `StarResonance-Windows.zip` from [Releases](../../releases/latest), unzip, run `StarResonance.exe`. Windows 10/11, 64-bit. The build is unsigned, so SmartScreen may ask: *More info → Run anyway*. |
 | **Browser** | [Play in the browser](https://y70647361-hub.github.io/StarResonance-Demo/) — desktop Chrome, Edge or Firefox. The first load downloads about 420 MB (cached afterwards). A few visual effects are simplified compared with the Windows build. |
 
 - **Language:** English by default. Switch with the `中文 / English` button on the main menu, or *Settings → Language*.
@@ -77,4 +77,4 @@ Third-party assets include COZY: Stylized Weather 3 (Distant Lands), TileWorldCr
 
 ### 中文简介
 
-《赫利俄斯》是一款以音乐为核心的种田探索游戏：种子会回应旋律，弹对音乐加速生长，弹错就会变异。商人和随行机器人"回声"由大语言模型驱动，会结合好感度、天气和玩家经历过的事件对话；对商人真诚地夸奖可能换来折扣。游戏默认英文，可在主菜单右上角或设置中切换为中文。
+《星鸣律动》（StarResonance）是一款以音乐为核心的种田探索游戏：玩家降落在星球"赫利俄斯"，这里的种子会回应旋律：弹对音乐加速生长，弹错就会变异。商人和随行机器人"回声"由大语言模型驱动，会结合好感度、天气和玩家经历过的事件对话；对商人真诚地夸奖可能换来折扣。游戏默认英文，可在主菜单右上角或设置中切换为中文。
